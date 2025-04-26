@@ -33,6 +33,9 @@ Over 5 million Indians rely on ISL daily, yet real-time speech-to-sign tools are
 
 
 How to run:
+
 pip install -r requirements.txt
+
 create venv optional
+
 run python main.py
